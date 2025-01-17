@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Dhaka",
+    "banglaName": "ঢাকা",
+    "value": "dhaka"
+  },
+  {
+    "name": "Faridpur",
+    "banglaName": "ফরিদপুর",
+    "value": "faridpur"
+  },
+  {
+    "name": "Gazipur",
+    "banglaName": "গাজীপুর",
+    "value": "gazipur"
+  },
+  {
+    "name": "Gopalganj",
+    "banglaName": "গোপালগঞ্জ",
+    "value": "gopalganj"
+  },
+  {
+    "name": "Jamalpur",
+    "banglaName": "জামালপুর",
+    "value": "jamalpur"
+  },
+  {
+    "name": "Kishoreganj",
+    "banglaName": "কিশোরগঞ্জ",
+    "value": "kishoreganj"
+  },
+  {
+    "name": "Madaripur",
+    "banglaName": "মাদারীপুর",
+    "value": "madaripur"
+  },
+  {
+    "name": "Manikganj",
+    "banglaName": "মানিকগঞ্জ",
+    "value": "manikganj"
+  },
+  {
+    "name": "Munshiganj",
+    "banglaName": "মুন্সিগঞ্জ",
+    "value": "munshiganj"
+  },
+  {
+    "name": "Mymensingh",
+    "banglaName": "ময়মনসিংহ",
+    "value": "mymensingh"
+  },
+  {
+    "name": "Narayanganj",
+    "banglaName": "নারায়ণগঞ্জ",
+    "value": "narayanganj"
+  },
+  {
+    "name": "Narsingdi",
+    "banglaName": "নরসিংদী",
+    "value": "narsingdi"
+  },
+  {
+    "name": "Netrokona",
+    "banglaName": "নেত্রকোনা",
+    "value": "netrokona"
+  },
+  {
+    "name": "Rajbari",
+    "banglaName": "রাজবাড়ী",
+    "value": "rajbari"
+  },
+  {
+    "name": "Shariatpur",
+    "banglaName": "শরীয়তপুর",
+    "value": "shariatpur"
+  },
+  {
+    "name": "Sherpur",
+    "banglaName": "শেরপুর",
+    "value": "sherpur"
+  },
+  {
+    "name": "Tangail",
+    "banglaName": "টাঙ্গাইল",
+    "value": "tangail"
+  },
+  {
+    "name": "Bogra",
+    "banglaName": "বগুড়া",
+    "value": "bogra"
+  },
+  {
+    "name": "Joypurhat",
+    "banglaName": "জয়পুরহাট",
+    "value": "joypurhat"
+  },
+  {
+    "name": "Naogaon",
+    "banglaName": "নওগাঁ",
+    "value": "naogaon"
+  },
+  {
+    "name": "Natore",
+    "banglaName": "নাটোর",
+    "value": "natore"
+  },
+  {
+    "name": "Nawabganj",
+    "banglaName": "নবাবগঞ্জ",
+    "value": "nawabganj"
+  },
+  {
+    "name": "Pabna",
+    "banglaName": "পাবনা",
+    "value": "pabna"
+  },
+  {
+    "name": "Rajshahi",
+    "banglaName": "রাজশাহী",
+    "value": "rajshahi"
+  },
+  {
+    "name": "Sirajgonj",
+    "banglaName": "সিরাজগঞ্জ",
+    "value": "sirajgonj"
+  },
+  {
+    "name": "Dinajpur",
+    "banglaName": "দিনাজপুর",
+    "value": "dinajpur"
+  },
+  {
+    "name": "Gaibandha",
+    "banglaName": "গাইবান্ধা",
+    "value": "gaibandha"
+  },
+  {
+    "name": "Kurigram",
+    "banglaName": "কুড়িগ্রাম",
+    "value": "kurigram"
+  },
+  {
+    "name": "Lalmonirhat",
+    "banglaName": "লালমনিরহাট",
+    "value": "lalmonirhat"
+  },
+  {
+    "name": "Nilphamari",
+    "banglaName": "নিলফামারী",
+    "value": "nilphamari"
+  },
+  {
+    "name": "Panchagarh",
+    "banglaName": "পঞ্চগড়",
+    "value": "panchagarh"
+  },
+  {
+    "name": "Rangpur",
+    "banglaName": "রংপুর",
+    "value": "rangpur"
+  },
+  {
+    "name": "Thakurgaon",
+    "banglaName": "ঠাকুরগাঁও",
+    "value": "thakurgaon"
+  },
+  {
+    "name": "Barguna",
+    "banglaName": "বরগুনা",
+    "value": "barguna"
+  },
+  {
+    "name": "Barisal",
+    "banglaName": "বরিশাল",
+    "value": "barisal"
+  },
+  {
+    "name": "Bhola",
+    "banglaName": "ভোলা",
+    "value": "bhola"
+  },
+  {
+    "name": "Jhalokati",
+    "banglaName": "ঝালকাঠি",
+    "value": "jhalokati"
+  },
+  {
+    "name": "Patuakhali",
+    "banglaName": "পটুয়াখালী",
+    "value": "patuakhali"
+  },
+  {
+    "name": "Pirojpur",
+    "banglaName": "পিরোজপুর",
+    "value": "pirojpur"
+  },
+  {
+    "name": "Bandarban",
+    "banglaName": "বান্দরবান",
+    "value": "bandarban"
+  },
+  {
+    "name": "Brahmanbaria",
+    "banglaName": "ব্রাহ্মণবাড়িয়া",
+    "value": "brahmanbaria"
+  },
+  {
+    "name": "Chandpur",
+    "banglaName": "চাঁদপুর",
+    "value": "chandpur"
+  },
+  {
+    "name": "Chittagong",
+    "banglaName": "চট্টগ্রাম",
+    "value": "chittagong"
+  },
+  {
+    "name": "Comilla",
+    "banglaName": "কুমিল্লা",
+    "value": "comilla"
+  },
+  {
+    "name": "Cox's Bazar",
+    "banglaName": "কক্সবাজার",
+    "value": "cox's bazar"
+  },
+  {
+    "name": "Feni",
+    "banglaName": "ফেনী",
+    "value": "feni"
+  },
+  {
+    "name": "Khagrachari",
+    "banglaName": "খাগড়াছড়ি",
+    "value": "khagrachari"
+  },
+  {
+    "name": "Lakshmipur",
+    "banglaName": "লক্ষ্মীপুর",
+    "value": "lakshmipur"
+  },
+  {
+    "name": "Noakhali",
+    "banglaName": "নোয়াখালী",
+    "value": "noakhali"
+  },
+  {
+    "name": "Rangamati",
+    "banglaName": "রাঙামাটি",
+    "value": "rangamati"
+  },
+  {
+    "name": "Habiganj",
+    "banglaName": "হবিগঞ্জ",
+    "value": "habiganj"
+  },
+  {
+    "name": "Maulvibazar",
+    "banglaName": "মৌলভীবাজার",
+    "value": "maulvibazar"
+  },
+  {
+    "name": "Sunamganj",
+    "banglaName": "সুনামগঞ্জ",
+    "value": "sunamganj"
+  },
+  {
+    "name": "Sylhet",
+    "banglaName": "সিলেট",
+    "value": "sylhet"
+  },
+  {
+    "name": "Bagerhat",
+    "banglaName": "বাগেরহাট",
+    "value": "bagerhat"
+  },
+  {
+    "name": "Chuadanga",
+    "banglaName": "চুয়াডাঙ্গা",
+    "value": "chuadanga"
+  },
+  {
+    "name": "Jessore",
+    "banglaName": "যশোর",
+    "value": "jessore"
+  },
+  {
+    "name": "Jhenaidah",
+    "banglaName": "ঝিনাইদহ",
+    "value": "jhenaidah"
+  },
+  {
+    "name": "Khulna",
+    "banglaName": "খুলনা",
+    "value": "khulna"
+  },
+  {
+    "name": "kushtia",
+    "banglaName": "কুষ্টিয়া",
+    "value": "kushtia"
+  },
+  {
+    "name": "Magura",
+    "banglaName": "মাগুরা",
+    "value": "magura"
+  },
+  {
+    "name": "Meherpur",
+    "banglaName": "মেহেরপুর",
+    "value": "meherpur"
+  },
+  {
+    "name": "Narail",
+    "banglaName": "নড়াইল",
+    "value": "narail"
+  },
+  {
+    "name": "Satkhira",
+    "banglaName": "সাতক্ষীরা",
+    "value": "satkhira"
+  }
+]
