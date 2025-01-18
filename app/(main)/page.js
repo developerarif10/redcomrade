@@ -2,6 +2,9 @@ import AccordionPage from "@/components/accordion-page";
 import NumberCardItem from "@/components/number-count-item";
 import SearchDonor from "@/components/Search/search-donor";
 import { BlogsGrid } from "@/components/ui/card-grid";
+import { InfiniteSlider } from "@/components/ui/infinite-slider";
+import Image from "next/image";
+
 import Marquee from "react-fast-marquee";
 
 export default function Home() {
@@ -44,6 +47,53 @@ export default function Home() {
       <BlogsGrid />
       {/* Card Section */}
       <NumberCardItem />
+      {/* Infinity Slider section */}
+
+      <InfiniteSlider gap={24} reverse>
+        <Image
+          width={100}
+          height={60}
+          src="/logo/apple_music_logo.svg"
+          alt="Apple Music logo"
+          className="h-[120px] w-auto"
+        />
+        <Image
+          width={100}
+          height={60}
+          src="/logo/chrome_logo.svg"
+          alt="Chrome logo"
+          className="h-[120px] w-auto"
+        />
+        <Image
+          width={100}
+          height={60}
+          src="/logo/strava_logo.svg"
+          alt="Strava logo"
+          className="h-[120px] w-auto"
+        />
+        <Image
+          width={100}
+          height={60}
+          src="/logo/nintendo_logo.svg"
+          alt="Nintendo logo"
+          className="h-[120px] w-auto"
+        />
+        <Image
+          width={100}
+          height={60}
+          src="/logo/jquery_logo.svg"
+          alt="Jquery logo"
+          className="h-[120px] w-auto"
+        />
+        <Image
+          width={100}
+          height={60}
+          src="/logo/prada_logo.svg"
+          alt="Prada logo"
+          className="h-[120px] w-auto"
+        />
+      </InfiniteSlider>
+
       {/* Accordion Section */}
       <AccordionPage />
     </>
