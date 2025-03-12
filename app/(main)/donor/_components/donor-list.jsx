@@ -90,28 +90,30 @@ export async function DonorList({
         </Table>
       </div>
       {/* Next or Previous Button for pagination  */}
-      <div className="flex items-center sm:justify-end justify-center space-x-2 py-4 ">
-        <Link href={createPageUrl(Math.max(1, currentPage - 1))} passHref>
-          <Button variant="outline" size="sm" disabled={currentPage === 1}>
-            Previous
-          </Button>
-        </Link>
-        <span>
-          Page {currentPage} of {pageCount}
-        </span>
-        <Link
-          href={createPageUrl(Math.min(pageCount, currentPage + 1))}
-          passHref
-        >
-          <Button
-            variant="outline"
-            size="sm"
-            disabled={currentPage === pageCount}
+      {donors.length > 0 && (
+        <div className="flex items-center sm:justify-end justify-center space-x-2 py-4 ">
+          <Link href={createPageUrl(Math.max(1, currentPage - 1))} passHref>
+            <Button variant="outline" size="sm" disabled={currentPage === 1}>
+              Previous
+            </Button>
+          </Link>
+          <span>
+            Page {currentPage} of {pageCount}
+          </span>
+          <Link
+            href={createPageUrl(Math.min(pageCount, currentPage + 1))}
+            passHref
           >
-            Next
-          </Button>
-        </Link>
-      </div>
+            <Button
+              variant="outline"
+              size="sm"
+              disabled={currentPage === pageCount}
+            >
+              Next
+            </Button>
+          </Link>
+        </div>
+      )}
     </div>
   );
 }

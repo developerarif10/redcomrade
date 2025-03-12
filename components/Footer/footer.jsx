@@ -1,18 +1,13 @@
-import Logo from "@/public/red_comrade_transparent_white_crop.png";
-import Image from "next/image";
 import Link from "next/link";
+import { Logo } from "../logo";
 export default function Footer() {
   return (
     <>
       <footer className="text-gray-400 bg-gray-900 body-font">
         <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
-            <Link
-              href="#"
-              className="flex title-font font-medium items-center md:justify-start justify-center text-white"
-            >
-              <Image src={Logo} alt="footer logo" width={100} height={100} />
-              {/* <span className="ml-1 text-xl">Red Comrade</span> */}
+            <Link href="/" className="select-none">
+              <Logo />
             </Link>
             <p className="mt-2 text-sm text-gray-500">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore

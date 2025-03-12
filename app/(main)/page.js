@@ -27,22 +27,23 @@ export default function Home() {
               blanditiis voluptates.
             </p>
             {/* <Marquee velocity={25}>
-              <div>Your content goes here</div>
+             <div>Your content goes here</div>
             </Marquee> */}
-            <Marquee>
-              <div>
-                Your content goes here. Lorem ipsum dolor sit, amet consectetur
-                adipisicing elit. Sapiente est voluptatem eius provident, sit
-                quae iure quaerat unde autem aut pariatur. Laboriosam, commodi?
-                Porro, quas quam consequuntur dolore a ut!
-              </div>
-            </Marquee>
+
             <div className="flex items-center gap-3 flex-wrap justify-center">
               <SearchDonor />
             </div>
           </div>
         </div>
       </section>
+      <Marquee>
+        <div>
+          Your content goes here. Lorem ipsum dolor sit, amet consectetur
+          adipisicing elit. Sapiente est voluptatem eius provident, sit quae
+          iure quaerat unde autem aut pariatur. Laboriosam, commodi? Porro, quas
+          quam consequuntur dolore a ut!
+        </div>
+      </Marquee>
       {/* Home page blogs section */}
       <BlogsGrid />
       {/* Card Section */}

@@ -94,7 +94,7 @@ export default async function BlogDetailsPage({ params: { blogId } }) {
             })} */}
 
           {commentList.map((comment) => (
-            <CommentCard key={comment._id} comment={comment} />
+            <CommentCard key={comment.id} comment={comment} />
           ))}
         </div>
 
