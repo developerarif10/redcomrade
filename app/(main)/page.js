@@ -22,9 +22,9 @@ export default function Home() {
             <h1 className="font-heading text-3xl font-bold sm:text-4xl md:text-5xl bg-clip-text text-transparent bg-gradient-to-r from-violet-300 via-violet-800 to-violet-900 lg:text-5xl ">
               সমগ্র দেশজুড়ে রক্তদাতা সন্ধানের সবচেয়ে সহজ প্লাটফর্ম
             </h1>
-            <p className="max-w-[42rem] text-slate-800 leading-normal text-muted-foreground sm:text-sm sm:leading-8">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa,
-              blanditiis voluptates.
+            <p className="max-w-[42rem] text-slate-800 leading-normal text-muted-foreground sm:text-sm sm:leading-8 font-semibold">
+              রক্তদাতাদের সন্ধানের জন্য রক্তের গ্রুপ, জেলা এবং উপজেলা নির্বাচন
+              করুন
             </p>
             {/* <Marquee velocity={25}>
              <div>Your content goes here</div>
@@ -36,13 +36,10 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <Marquee>
-        <div>
-          Your content goes here. Lorem ipsum dolor sit, amet consectetur
-          adipisicing elit. Sapiente est voluptatem eius provident, sit quae
-          iure quaerat unde autem aut pariatur. Laboriosam, commodi? Porro, quas
-          quam consequuntur dolore a ut!
-        </div>
+      <Marquee direction="right" className="bg-teal-700 text-white py-2">
+        ওয়েবসাইট সম্পর্কে আপনার নিজস্ব মতামত জানাতে আমাদের সাথে যোগাযোগ করুন।
+        নিজে রক্ত দিন এবং আরেকজনকে রক্তদানে উৎসাহিত করুন। মানুষ মানুষের জন্য,
+        আসুন সবাই মিলে সুন্দর একটা সমাজ গড়ি।
       </Marquee>
       {/* Home page blogs section */}
       <BlogsGrid />
